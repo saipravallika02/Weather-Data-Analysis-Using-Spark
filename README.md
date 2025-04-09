@@ -1,2 +1,2 @@
 # WeatherDataAnalysisUsingSpark
-This project is just Data analysis on weather dataset using spark. 
+This project is Data analysis on weather dataset using spark. 
